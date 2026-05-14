@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yara1\\GlobaleBildung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\yara1\\globalebildung\\assets\\projectassets\\shaders\\urphairmask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\projectassets\\shaders\\urphairmask.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\yara1\\globalebildung\\assets\\projectassets\\shaders\\urphairmask.shader.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\projectassets\\shaders\\urphairmask.shader.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yara1\\GlobaleBildung\\Assets\\TheHereticDigitalHuman\\EmbeddedPackages\\com.unity.demoteam.digital-human\\Runtime\\CustomPass\\NormalBufferBlurPass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TheHereticDigitalHuman\\EmbeddedPackages\\com.unity.demoteam.digital-human\\Runtime\\CustomPass\\NormalBufferBlurPass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\yara1\\globalebildung\\assets\\spotteleporterwithfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\spotteleporterwithfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yara1\\GlobaleBildung\\Library\\PackageCache\\com.unity.render-pipelines.universal@1ad96352dab8\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@1ad96352dab8\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yara1\\GlobaleBildung\\Assets\\SpotTeleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SpotTeleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yara1\\GlobaleBildung\\Assets\\Code\\MultiSceneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Code\\MultiSceneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yara1\\GlobaleBildung\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@36bf9abcd60b\\Runtime\\Material\\Lit\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.high-definition@36bf9abcd60b\\Runtime\\Material\\Lit\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yara1\\GlobaleBildung\\Assets\\QuizQuestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\QuizQuestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "URPHairMask.shader.txt",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\ProjectAssets\\Shaders\\URPHairMask.shader.txt",
+              "RelativeDocumentMoniker": "Assets\\ProjectAssets\\Shaders\\URPHairMask.shader.txt",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\ProjectAssets\\Shaders\\URPHairMask.shader.txt",
+              "RelativeToolTip": "Assets\\ProjectAssets\\Shaders\\URPHairMask.shader.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-05T17:13:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "URPHairMask.shader",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\ProjectAssets\\Shaders\\URPHairMask.shader",
+              "RelativeDocumentMoniker": "Assets\\ProjectAssets\\Shaders\\URPHairMask.shader",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\ProjectAssets\\Shaders\\URPHairMask.shader",
+              "RelativeToolTip": "Assets\\ProjectAssets\\Shaders\\URPHairMask.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-05T17:13:09.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NormalBufferBlurPass.cs",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\TheHereticDigitalHuman\\EmbeddedPackages\\com.unity.demoteam.digital-human\\Runtime\\CustomPass\\NormalBufferBlurPass.cs",
+              "RelativeDocumentMoniker": "Assets\\TheHereticDigitalHuman\\EmbeddedPackages\\com.unity.demoteam.digital-human\\Runtime\\CustomPass\\NormalBufferBlurPass.cs",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\TheHereticDigitalHuman\\EmbeddedPackages\\com.unity.demoteam.digital-human\\Runtime\\CustomPass\\NormalBufferBlurPass.cs",
+              "RelativeToolTip": "Assets\\TheHereticDigitalHuman\\EmbeddedPackages\\com.unity.demoteam.digital-human\\Runtime\\CustomPass\\NormalBufferBlurPass.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:58:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotTeleporterWithFade.cs",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\SpotTeleporterWithFade.cs",
+              "RelativeDocumentMoniker": "Assets\\SpotTeleporterWithFade.cs",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\SpotTeleporterWithFade.cs",
+              "RelativeToolTip": "Assets\\SpotTeleporterWithFade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:28:28.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpotTeleporter.cs",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\SpotTeleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\SpotTeleporter.cs",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\SpotTeleporter.cs",
+              "RelativeToolTip": "Assets\\SpotTeleporter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:55:20.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiSceneController.cs",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\Code\\MultiSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\MultiSceneController.cs",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\Code\\MultiSceneController.cs",
+              "RelativeToolTip": "Assets\\Code\\MultiSceneController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T09:44:33.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@36bf9abcd60b\\Runtime\\Material\\Lit\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@36bf9abcd60b\\Runtime\\Material\\Lit\\Lit.shader",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Library\\PackageCache\\com.unity.render-pipelines.high-definition@36bf9abcd60b\\Runtime\\Material\\Lit\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.high-definition@36bf9abcd60b\\Runtime\\Material\\Lit\\Lit.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-04-20T21:04:08.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Library\\PackageCache\\com.unity.render-pipelines.universal@1ad96352dab8\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@1ad96352dab8\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Library\\PackageCache\\com.unity.render-pipelines.universal@1ad96352dab8\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@1ad96352dab8\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgCAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-04-18T16:23:35.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "Assets\\QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\yara1\\GlobaleBildung\\Assets\\QuizQuestion.cs",
+              "RelativeToolTip": "Assets\\QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:23:43.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

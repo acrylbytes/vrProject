@@ -1,0 +1,72 @@
+# Blender 4.5.8 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl AcaciaBark_Mat
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/yara1/Downloads/C:/Users/yara1/GlobaleBildung/Assets/ProjectAssets/Models/Plants/Acacia/AcaciaBark.png
+
+newmtl AcaciaBroadLeaf2_Mat
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/yara1/Downloads/C:/Users/yara1/GlobaleBildung/Assets/ProjectAssets/Models/Plants/Acacia/AcaciaBroadLeaf2.png
+
+newmtl AcaciaBroadLeaf_Mat
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/yara1/Downloads/C:/Users/yara1/GlobaleBildung/Assets/ProjectAssets/Models/Plants/Acacia/AcaciaBroadLeaf.png
+
+newmtl AcaciaStem_Mat
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/yara1/Downloads/C:/Users/yara1/GlobaleBildung/Assets/ProjectAssets/Models/Plants/Acacia/AcaciaStem.png
+
+newmtl AcaciaTrunk_Mat
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/yara1/Downloads/C:/Users/yara1/GlobaleBildung/Assets/ProjectAssets/Models/Plants/Acacia/AcaciaTrunk.png
+
+newmtl Cap_01_Mat
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/yara1/Downloads/C:/Users/yara1/GlobaleBildung/Assets/ProjectAssets/Models/Plants/Acacia/Cap_01.png
+
+newmtl Thorns_Mat
+Ns 100.000015
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:/Users/yara1/Downloads/C:/Users/yara1/GlobaleBildung/Assets/ProjectAssets/Models/Plants/Acacia/Thorns.png

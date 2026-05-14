@@ -1,0 +1,37 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+
+# Asset Store Pakete können meist ignoriert werden, 
+# da sie über das Manifest wiederhergestellt werden
+/[Aa]ssets/AssetStoreTools*
+
+# Autogenerierte Projektdateien für IDEs (VS, Rider, etc.)
+VisualStudioProjectTemplates/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity3D generierte Meta-Daten für gelöschte Dateien
+*.pidb.meta
+*.pdb.meta
+*.m4d.meta
+
+# OS-spezifische Dateien
+.DS_Store
+Thumbs.db

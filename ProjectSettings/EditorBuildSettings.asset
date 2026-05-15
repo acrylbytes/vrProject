@@ -5,18 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Master.unity
     guid: de1f6b2146434174380e7e56fc69579a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Forest_EnvironmentSample.unity
     guid: fc1e6a0c2803d9444a02fce99b5b0fb2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AudioZones.unity
     guid: eceab537e1c21674ab0da7b979399c6e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Forest_EnvironmentSample_Collisions.unity
     guid: b113fbf76ecc0f047b63fe945ed1f232
+  - enabled: 1
+    path: Assets/Scenes/Amazonas.unity
+    guid: 5aad0d8c3cf171043ab7863e66af1ba1
+  - enabled: 1
+    path: Assets/Scenes/FinlandClassroom.unity
+    guid: f9fecda076ff24744a12748c6d5ff0da
+  - enabled: 1
+    path: Assets/Scenes/GhanaSchool.unity
+    guid: bd37ce194db50ef49b2448b3058271ff
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 908d62378b8205449861e5838a18a596,
       type: 2}
